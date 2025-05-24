@@ -65,8 +65,6 @@ const questions = {
 // Example page components
 
 const LogOut = () => <div className="p-4"><h1 className="text-2xl font-bold mb-4">Log Out</h1><p>Logging out...</p></div>;
-// const Home = () => <div className="p-4"><h1 className="text-2xl font-bold mb-4">Home</h1><p>Welcome to the dashboard! Select a menu item from the sidebar.</p></div>;
-// const DashboardHome = () => <div className="p-4"><h1 className="text-2xl font-bold mb-4">Dashboard</h1><p>Welcome to the dashboard! Select a menu item from the sidebar.</p></div>;
 
 // MainPage component
 function DashboardHome() {
